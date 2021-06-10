@@ -20,11 +20,11 @@
 					<td width="600px" style="font-size:50px;font-family:forte;"> <font color="#428bca"> UK  </font><font color="#000"> Hospital</font> </td>
 					<td> <br> <br>
 						<font size="4px"> 
-							<a href="index.html">HOME</a> 
-							<a href="about.html">ABOUT US</a>  
-							<a href="service.html">SERVICE</a>
-							<a href="doctor.html">DOCTORS</a> 
-							<a href="contact.html">CONTACT US</a>
+							<a href="index.php">HOME</a> 
+							<a href="about.php">ABOUT US</a>  
+							<a href="service.php">SERVICE</a>
+							<a href="doctor.php">DOCTORS</a> 
+							<a href="contact.php">CONTACT US</a>
 						</font>
 					</td>
 				</tr>
